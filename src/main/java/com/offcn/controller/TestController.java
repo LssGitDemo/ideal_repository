@@ -6,6 +6,5 @@ public class TestController {
 
     public void showName() {
         System.out.println(name);
-        System.out.println("test提交的文件");
     }
 }
