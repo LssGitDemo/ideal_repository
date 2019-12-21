@@ -6,6 +6,5 @@ public class TestController {
 
     public void showName() {
         System.out.println(name);
-        System.out.println("clone 提交的文件");
     }
 }
